@@ -25,9 +25,9 @@ function App() {
           
         </div>
         <div className="header-links">
-          <a href="cart.html">Cart</a>
-          <a href="signin.html">SignUp</a>
-          <a href="login.html">Login</a>
+          <Link to="/cart">Cart </Link>
+          <Link to="/SignUp">SignUp </Link>
+          <Link to="/Login">Login </Link>
         </div>
       </header>
       <aside className="sidebar">

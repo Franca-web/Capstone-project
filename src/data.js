@@ -14,10 +14,10 @@ export default {
     } ,
 {
     _id: '22',
-    name: 'Slim pants',
-    category:'pants',
+    name: 'side bag',
+    category:'bags',
     image: '/images/p1.webp',
-    price:'40',
+    price:'90',
     brand: 'Nike',
     rating: 4.2,
     numReviews: 10
@@ -25,10 +25,10 @@ export default {
 
 {
     _id: '33',
-    name: 'large Shirt',
-    category: 'Shirts',
+    name: 'canvas',
+    category: 'Shoes',
     image: '/images/p1.webp',
-    price:'40',
+    price:'100',
     brand: 'Nike',
     rating: 4.2,
     numReviews: 10
@@ -36,8 +36,8 @@ export default {
 
 {
     _id: '44',
-    name: 'loose pants',
-    category: 'pants',
+    name: 'Evening dress',
+    category: 'dresses',
     image: '/images/p1.webp',
     price:'40',
     brand: 'Nike',
